@@ -1,0 +1,80 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930M (ID=0x1346)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.7682
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.989161 ms
+ping: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+monster: passing over...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 393.3978
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+monster: passing over...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 303.6171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+monster: passing over...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 335.661
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 34f8 -> priority: 1 
+  Thread -> id: ca8 -> priority: 1 
