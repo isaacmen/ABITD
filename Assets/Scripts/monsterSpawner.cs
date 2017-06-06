@@ -15,12 +15,18 @@ public class monsterSpawner : MonoBehaviour {
 
     private GameObject currentMonster;
 
+    private int increase_amount = 500;
+    private bool increase = false;
+
 
 	// Use this for initialization
 	void Start () {
         var playerPos = player.transform.position;
         transform.position = new Vector3(playerPos.x, playerPos.y - 9, playerPos.z);
 	}
+
+    // force the monster to spawn faster
+    public void spawn_faster() { next_time -= increase_amount; }
 	
 	// Update is called once per frame
 	void Update () {
