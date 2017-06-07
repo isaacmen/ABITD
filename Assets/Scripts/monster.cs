@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class monster : MonoBehaviour {
 
     int move = 10; // how far monster goes before disappearing
-    float speed = 2.0f; // 3
+    public float speed = 1.3f; // 3
     Vector3 initialPos;
 
     //bool hunting = true;
@@ -36,7 +36,10 @@ public class monster : MonoBehaviour {
                 stop = true; // monster stops
 
                 // death screen
-                SceneManager.LoadScene("DeathScene");
+                //SceneManager.LoadScene("DeathScene");
+                var deathscript = gameObject.GetComponent<death>();
+                deathscript.death_happens();
+                
             }
             else 
             {
