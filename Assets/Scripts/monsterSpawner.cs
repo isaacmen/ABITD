@@ -62,7 +62,10 @@ public class monsterSpawner : MonoBehaviour {
 
         }
         else { timer++; }
-
+        if (!can_spawn && currentMonster != null) 
+        {
+            Destroy(currentMonster);
+        }
         var pscript = player.GetComponent<movement>();
         if (pscript.can_move == false)
         {

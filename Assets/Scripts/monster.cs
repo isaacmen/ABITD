@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class monster : MonoBehaviour {
 
     int move = 10; // how far monster goes before disappearing
-    public float speed = 1.3f; // 3
+    public float speed = 1.5f; // 3
     Vector3 initialPos;
 
     //bool hunting = true;

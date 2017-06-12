@@ -10,7 +10,7 @@ public class death : MonoBehaviour {
 		
 	}
 
-    void death_happens() {
+    public void death_happens() {
         SceneManager.LoadScene("DeathScene");
         
     }

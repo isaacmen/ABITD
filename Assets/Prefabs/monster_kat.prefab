@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 65582274906081764}
   - component: {fileID: 82953357018708056}
   - component: {fileID: 114440013583060822}
+  - component: {fileID: 114633325052991846}
   m_Layer: 0
   m_Name: monster_kat
   m_TagString: Untagged
@@ -165,6 +166,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 031cb8c5f6a1c5442bb6eddf16b2d0d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114633325052991846
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1621932290915022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c76a9d3c42f6e8429171e3793d532b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114986772515212654
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -176,6 +188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87eae9302af63684dacfba4c68bb79a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
   stop: 0
   direction: up
 --- !u!212 &212518075350506362
