@@ -35,6 +35,7 @@ public class doorstuff : MonoBehaviour {
 				src.Play ();
 				opened = true;
 			}
+			col.gameObject.GetComponent<keycode> ().haskey = false;
 		}
 	}
 }
