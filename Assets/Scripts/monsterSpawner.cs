@@ -8,6 +8,9 @@ public class monsterSpawner : MonoBehaviour {
     public GameObject player;
     public GameObject monster_prefab;
 
+    public AudioClip monster_theme;
+    private AudioSource source;
+
     //int spawnRate = 5; // in percent
 
     float timer = 0;
@@ -55,6 +58,8 @@ public class monsterSpawner : MonoBehaviour {
             currentMonster = Instantiate(monster_prefab, directions[dir], transform.rotation);
             var monScript = currentMonster.GetComponent<monster>();
             monScript.direction = directions_names[dir];
+
+            
 
             float r = Random.Range(1000.0f, 2000.0f);
             next_time = r;

@@ -14,9 +14,32 @@ public class monster : MonoBehaviour {
     bool passover = false;
     public string direction = "up";
 
+    public AudioClip soundLR;
+    public AudioClip soundU;
+    public AudioClip soundD;
+    private AudioSource source;
+
 	// Use this for initialization
 	void Start () {
         initialPos = transform.position;
+        source = GetComponent<AudioSource>();
+
+        if (direction == "up")
+        {
+            source.PlayOneShot(soundU);
+        }
+        else if (direction == "down")
+        {
+            source.PlayOneShot(soundD);
+        }
+        else if (direction == "left")
+        {
+            source.PlayOneShot(soundLR);
+        }
+        else if (direction == "right")
+        {
+            source.PlayOneShot(soundLR);
+        }
 	}
 
     void OnTriggerEnter(Collider other) 
