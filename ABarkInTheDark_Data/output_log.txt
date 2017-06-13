@@ -1,53 +1,35 @@
-Initialize engine version: 5.6.0f3 (497a0f351392)
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
     Renderer: NVIDIA GeForce 930M (ID=0x1346)
     Vendor:   NVIDIA
     VRAM:     2020 MB
-    Driver:   21.21.13.7682
+    Driver:   22.21.13.8205
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.026 seconds
-Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\isac_\Desktop\A Bark in the Dark\A-Bark-in-the-Dark\A Bark in the Dark\ABarkInTheDark_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\isac_\Desktop\ABITD\ABITD\ABarkInTheDark_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.989161 ms
-ping: 0
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+UnloadTime: 3.548249 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.401139 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 946.
+Total: 7.120020 ms (FindLiveObjects: 0.095794 ms CreateObjectMapping: 0.059016 ms MarkObjects: 0.369921 ms  DeleteObjects: 6.593577 ms)
 
 hidden
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-monster: passing over...
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-not hidden
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-ping: 393.3978
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-hidden
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-monster: passing over...
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -59,11 +41,15 @@ hidden
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-ping: 303.6171
+not hidden
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-monster: passing over...
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 500
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -71,10 +57,210 @@ not hidden
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-ping: 335.661
+hidden
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 1595.26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 1181.356
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 1650.058
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 1132.974
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+creak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 1399.568
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+creak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 1499.649
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+monster: D:<
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+creak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 852.1019
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+monster: D:<
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+creak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 1346.455
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+creak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+creak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ping: 102.5405
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+not hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+monster: D:<
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.714460 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 2.938841 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.025659 ms MarkObjects: 0.182180 ms  DeleteObjects: 2.702776 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.371631 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 948.
+Total: 2.313183 ms (FindLiveObjects: 0.120170 ms CreateObjectMapping: 0.082537 ms MarkObjects: 0.384461 ms  DeleteObjects: 1.724730 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 34f8 -> priority: 1 
-  Thread -> id: ca8 -> priority: 1 
+  Thread -> id: 2740 -> priority: 1 
+  Thread -> id: 36b8 -> priority: 1 
