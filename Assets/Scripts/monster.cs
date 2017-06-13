@@ -55,13 +55,14 @@ public class monster : MonoBehaviour {
                 GameObject player = GameObject.Find("Player");
                 var pscript = player.GetComponent<movement>();
                 
-                pscript.can_move = false;
-                stop = true; // monster stops
+                //pscript.can_move = false;
+                //stop = true; // monster stops
 
                 // death screen
                 //SceneManager.LoadScene("DeathScene");
                 var deathscript = gameObject.GetComponent<death>();
                 deathscript.death_happens();
+				GameObject.Destroy (this.gameObject);
                 
             }
             else 

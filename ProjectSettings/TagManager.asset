@@ -9,6 +9,9 @@ TagManager:
   - hideyhole
   - creaker
   - Key
+  - Checkpoint1
+  - Checkpoint2
+  - Checkpoint3
   layers:
   - Default
   - TransparentFX

@@ -22,8 +22,5 @@ public class keycode : MonoBehaviour {
 			haskey = true;
 			GameObject.Destroy (col.gameObject);
 		}
-		if (col.CompareTag ("Door") && haskey) {
-			haskey = false;
-		}
 	}
 }
