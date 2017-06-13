@@ -21,7 +21,7 @@ public class doorstuff : MonoBehaviour {
 		if (opened) {
 			timer++;
 		}
-		if (timer > 60) {
+		if (timer > 30) {
 			GameObject.Destroy (this.gameObject);
 		}
 		

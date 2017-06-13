@@ -22,7 +22,8 @@ public class deathroom : MonoBehaviour {
 			timer++;
 		}
 		if (timer > 90) {
-			SceneManager.LoadScene("DeathScene");
+			var deathscript = gameObject.GetComponent<death>();
+			deathscript.death_happens();
 		}
 		
 	}

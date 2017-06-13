@@ -16,5 +16,10 @@ public class StartScreen : MonoBehaviour {
 		{
 			SceneManager.LoadScene("Level 1");
 		}
+
+		if (Input.GetKeyDown("s"))
+		{
+			SceneManager.LoadScene("SurvivalGuide");
+		}
 	}
 }

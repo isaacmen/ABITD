@@ -66,7 +66,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: dcf2f663137d6cc498f9c1ee83d3dd5c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 853e0c46ebceb32409c2d7968a8cf522, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.8
   m_Pitch: 1
@@ -78,7 +78,7 @@ AudioSource:
   DopplerLevel: 0
   MinDistance: 1.0567904
   MaxDistance: 10
-  Pan2D: 0
+  Pan2D: 0.88
   rolloffMode: 2
   BypassEffects: 0
   BypassListenerEffects: 0
@@ -177,6 +177,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c76a9d3c42f6e8429171e3793d532b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathsound: {fileID: 8300000, guid: 87071db75c0b6ba40b3cfc8a50eddb91, type: 3}
 --- !u!114 &114986772515212654
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -191,6 +192,9 @@ MonoBehaviour:
   speed: 2
   stop: 0
   direction: up
+  soundLR: {fileID: 8300000, guid: 853e0c46ebceb32409c2d7968a8cf522, type: 3}
+  soundU: {fileID: 8300000, guid: 0faa28c41e0a41247a61afd33de20ed8, type: 3}
+  soundD: {fileID: 8300000, guid: 42ff30266c1da0249af2121c8dfc1a69, type: 3}
 --- !u!212 &212518075350506362
 SpriteRenderer:
   m_ObjectHideFlags: 1
