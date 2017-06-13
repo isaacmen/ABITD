@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 31742d8a9194f464185506b537047411
+timeCreated: 1497387158
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imageedit_3_4688644967_0
+    21300002: imageedit_3_4688644967_1
+    21300004: imageedit_3_4688644967_2
+    21300006: imageedit_3_4688644967_3
+    21300008: imageedit_3_4688644967_4
+    21300010: imageedit_3_4688644967_5
+    21300012: imageedit_3_4688644967_6
+    21300014: imageedit_3_4688644967_7
+    21300016: imageedit_3_4688644967_8
+    21300018: imageedit_3_4688644967_9
+    21300020: imageedit_3_4688644967_10
+    21300022: imageedit_3_4688644967_11
+    21300024: imageedit_3_4688644967_12
+    21300026: imageedit_3_4688644967_13
+    21300028: imageedit_3_4688644967_14
+    21300030: imageedit_3_4688644967_15
+    21300032: imageedit_3_4688644967_16
+    21300034: imageedit_3_4688644967_17
+    21300036: imageedit_3_4688644967_18
+    21300038: imageedit_3_4688644967_19
+    21300040: imageedit_3_4688644967_20
+    21300042: imageedit_3_4688644967_21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 635
+        width: 111
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 637
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 634
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 631
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 616
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 610
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 441
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 570
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 428
+        width: 93
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 440
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 437
+        width: 106
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 419
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 233
+        width: 94
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 372
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 217
+        width: 127
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 231
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 225
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 26
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 23
+        width: 107
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 28
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_3_4688644967_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 23
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

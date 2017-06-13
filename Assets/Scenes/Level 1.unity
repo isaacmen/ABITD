@@ -844,6 +844,7 @@ GameObject:
   - component: {fileID: 246598557}
   - component: {fileID: 246598558}
   - component: {fileID: 246598559}
+  - component: {fileID: 246598560}
   m_Layer: 0
   m_Name: death room
   m_TagString: Untagged
@@ -981,6 +982,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+--- !u!114 &246598560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 246598555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c76a9d3c42f6e8429171e3793d532b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathsound: {fileID: 8300000, guid: 87071db75c0b6ba40b3cfc8a50eddb91, type: 3}
 --- !u!1001 &259450900
 Prefab:
   m_ObjectHideFlags: 0
@@ -1864,6 +1877,50 @@ Prefab:
     - target: {fileID: 1826174879493316, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
       propertyPath: m_Name
       value: Key (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 212385666996311862, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300002, guid: d52226431454c9f449e387c1a863f11b,
+        type: 3}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: -0.054250658
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.68198335
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: 0.05516815
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.4127655
+      objectReference: {fileID: 0}
+    - target: {fileID: 4027763890528680, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4027763890528680, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
@@ -4356,6 +4413,34 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4027763890528680, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4027763890528680, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: -0.022839248
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.7448064
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: 0.007829666
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.34714127
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
   m_IsPrefabParent: 0
@@ -5687,6 +5772,7 @@ GameObject:
   - component: {fileID: 1347989761}
   - component: {fileID: 1347989760}
   - component: {fileID: 1347989759}
+  - component: {fileID: 1347989762}
   m_Layer: 0
   m_Name: death room (1)
   m_TagString: Untagged
@@ -5824,6 +5910,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.472285, y: 1.3770485}
   m_EdgeRadius: 0
+--- !u!114 &1347989762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1347989757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c76a9d3c42f6e8429171e3793d532b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathsound: {fileID: 8300000, guid: 87071db75c0b6ba40b3cfc8a50eddb91, type: 3}
 --- !u!1 &1366280895
 GameObject:
   m_ObjectHideFlags: 0
@@ -5835,6 +5933,7 @@ GameObject:
   - component: {fileID: 1366280899}
   - component: {fileID: 1366280898}
   - component: {fileID: 1366280897}
+  - component: {fileID: 1366280900}
   m_Layer: 0
   m_Name: death room (2)
   m_TagString: Untagged
@@ -5972,6 +6071,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.472285, y: 1.3770485}
   m_EdgeRadius: 0
+--- !u!114 &1366280900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1366280895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c76a9d3c42f6e8429171e3793d532b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathsound: {fileID: 8300000, guid: 87071db75c0b6ba40b3cfc8a50eddb91, type: 3}
 --- !u!1 &1377083625
 GameObject:
   m_ObjectHideFlags: 0
@@ -6747,6 +6858,50 @@ Prefab:
     - target: {fileID: 4027763890528680, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 212385666996311862, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: d52226431454c9f449e387c1a863f11b,
+        type: 3}
+    - target: {fileID: 4027763890528680, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4027763890528680, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: 0.025025308
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.8405353
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.09845829
+      objectReference: {fileID: 0}
+    - target: {fileID: 61862952902979708, guid: 137f95dd4a748dd4995c83dc42ede3fe,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.5935688
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 137f95dd4a748dd4995c83dc42ede3fe, type: 2}
